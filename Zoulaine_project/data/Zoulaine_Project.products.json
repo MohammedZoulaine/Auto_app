@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Tesla Model S",
+    "imgPath": "https://cdn.motor1.com/images/mgl/BEvvq/s3/tesla-model-s.jpg",
+    "marque": "Tesla",
+    "prix": 95000
+  },
+  {
+    "name": "BMW M4",
+    "imgPath": "https://cdn.bmwblog.com/wp-content/uploads/2020/09/2021-bmw-m4-coupe-g82-01.jpg",
+    "marque": "BMW",
+    "prix": 80000
+  },
+  {
+    "name": "Audi R8",
+    "imgPath": "https://www.topgear.com/sites/default/files/cars-car/image/2020/06/audi_r8_rwd_009.jpg",
+    "marque": "Audi",
+    "prix": 140000
+  },
+  {
+    "name": "Mercedes-Benz C-Class",
+    "imgPath": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my21/c/class/sedan/2021-C-SEDAN-HIGHLIGHTS-01-DR.jpg",
+    "marque": "Mercedes",
+    "prix": 50000
+  },
+  {
+    "name": "Ford Mustang",
+    "imgPath": "https://cdn.motor1.com/images/mgl/qeXZp/s3/2024-ford-mustang.jpg",
+    "marque": "Ford",
+    "prix": 55000
+  },
+  {
+    "name": "Chevrolet Camaro",
+    "imgPath": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/performance/2022-camaro/colorizer/01-images/2022-camaro-1ss-gaz-colorizer.jpg",
+    "marque": "Chevrolet",
+    "prix": 47000
+  },
+  {
+    "name": "Toyota Supra",
+    "imgPath": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2022/supra/040.png",
+    "marque": "Toyota",
+    "prix": 51000
+  },
+  {
+    "name": "Porsche 911",
+    "imgPath": "https://files.porsche.com/filestore/image/multimedia/none/992-carrera-modelimage-sideshot/thumbwhite/79d91d39-fb66-11eb-80d2-005056bbdc38;sO;twebp/porsche-thumbwhite.webp",
+    "marque": "Porsche",
+    "prix": 120000
+  },
+  {
+    "name": "Lamborghini Huracán",
+    "imgPath": "https://cdn.motor1.com/images/mgl/BE0W0/s1/lamborghini-huracan-tecnica.jpg",
+    "marque": "Lamborghini",
+    "prix": 220000
+  },
+  {
+    "name": "Ferrari F8 Tributo",
+    "imgPath": "https://www.ferrari.com/images/auto/F8-Tributo/Home/F8-Tributo_01.jpg",
+    "marque": "Ferrari",
+    "prix": 270000
+  },
+  {
+    "name": "Nissan GT-R",
+    "imgPath": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/gtr/2021/overview/2021-nissan-gt-r-gallery-1.jpg",
+    "marque": "Nissan",
+    "prix": 115000
+  },
+  {
+    "name": "Mazda MX-5 Miata",
+    "imgPath": "https://www.mazdausa.com/siteassets/vehicles/2022/mx-5-miata-rf/gallery/2022-mazda-mx-5-rf-mzp-speed.jpg",
+    "marque": "Mazda",
+    "prix": 35000
+  },
+  {
+    "name": "Subaru WRX",
+    "imgPath": "https://www.subaru.com/content/dam/subaru/vehicles/2022/wrx/trim-selector/2022-wrx-limited-lightning-blue.png",
+    "marque": "Subaru",
+    "prix": 41000
+  },
+  {
+    "name": "Honda Civic Type R",
+    "imgPath": "https://hondanews.com/en-US/honda-automobiles/releases/release-06d1495eec18cf10f9b8e3cf02001c1e-2023-honda-civic-type-r-fact-sheet/_jcr_content/image.img.jpg",
+    "marque": "Honda",
+    "prix": 43000
+  },
+  {
+    "name": "Kia Stinger",
+    "imgPath": "https://www.kia.com/us/en/vehicles/stinger/2023/images/2023-kia-stinger-masthead-hero.jpg",
+    "marque": "Kia",
+    "prix": 47000
+  },
+  {
+    "name": "Hyundai Elantra N",
+    "imgPath": "https://www.hyundaiusa.com/us/en/vehicles/elantra-n/2023/gallery/elantra-n-gallery-exterior-side-profile.jpg",
+    "marque": "Hyundai",
+    "prix": 39000
+  },
+  {
+    "name": "Volkswagen Golf R",
+    "imgPath": "https://www.vw.com/en/models/golf-r/gallery/_jcr_content/mediaGallery/image.img.jpg",
+    "marque": "Volkswagen",
+    "prix": 44000
+  },
+  {
+    "name": "Dodge Charger",
+    "imgPath": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/2023/charger/vlp-gallery/desktop/2023-charger-srt-hellcat-redeye.jpg",
+    "marque": "Dodge",
+    "prix": 60000
+  },
+  {
+    "name": "Peugeot 508 PSE",
+    "imgPath": "https://media.peugeot.fr/image/84/7/peugeot-508pse-2002styp-004.682847.19.jpg",
+    "marque": "Peugeot",
+    "prix": 62000
+  },
+  {
+    "name": "Alfa Romeo Giulia",
+    "imgPath": "https://www.alfaromeousa.com/content/dam/alfa/us/vehicles/giulia/2023/gallery/2023-alfa-romeo-giulia-exterior-gallery-01.jpg",
+    "marque": "Alfa Romeo",
+    "prix": 53000
+  }
+]

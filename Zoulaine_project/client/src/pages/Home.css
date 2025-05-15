@@ -1,0 +1,62 @@
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.hero-section {
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.features {
+    background-color: #121212;
+}
+
+.feature-card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+}
+
+.feature-card h4 {
+    font-weight: bold;
+}
+
+.feature-card p {
+    color: #aaa;
+    font-size: 1rem;
+}
+
+.features i {
+    font-size: 3rem;
+    color: #0d6efd;
+}
+
+.card {
+    border: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.btn-primary:hover {
+    background-color: #004bb1;
+    border-color: #004bb1;
+}
+
+footer {
+    background-color: #000000;
+}

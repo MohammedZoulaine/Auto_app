@@ -1,0 +1,40 @@
+.hero-section {
+    height: 50vh;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.story-section p {
+    color: #666;
+}
+
+.values-section {
+    background-color: #000;
+}
+
+.values-section i {
+    font-size: 3rem;
+    transition: transform 0.3s;
+}
+
+.values-section i:hover {
+    transform: scale(1.2);
+}
+
+.vision-section {
+    background-color: #f8f9fa;
+}
+
+.img-fluid {
+    width: 100%;
+    max-width: 600px; 
+    height: 300px; 
+    object-fit: cover; 
+    transition: transform 0.3s ease-in-out;
+}
+
+.img-fluid:hover {
+    transform: scale(1.05);
+}

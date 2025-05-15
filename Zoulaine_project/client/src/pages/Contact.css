@@ -1,0 +1,51 @@
+.contact-page {
+    background-color: #121212;
+    color: #fff;
+}
+
+.hero-section {
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.form-section {
+    background-color: #f8f9fa;
+}
+
+form {
+    background-color: #333;
+}
+
+form .form-control {
+    background-color: #444;
+    border: none;
+    color: #fff;
+}
+
+form .form-control::placeholder {
+    color: #aaa;
+}
+
+form .form-control:focus {
+    background-color: #555;
+    border-color: #0d6efd;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(13, 110, 253, 0.5);
+}
+
+.alert {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #004bb1;
+    box-shadow: 0 5px 15px rgba(0, 75, 177, 0.5);
+}
